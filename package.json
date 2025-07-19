@@ -43,7 +43,7 @@
   "homepage": "https://daquinoaldo.github.io/https-localhost",
   "dependencies": {
     "appdata-path": "^1.0.0",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "uglify-js": "^3.15.1",
